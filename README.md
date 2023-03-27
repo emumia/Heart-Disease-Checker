@@ -1,7 +1,7 @@
 
 
 <h1> Heart-Disease-Checker
-Data Science, Machine learning, Data visualization</h1>
+Data Science, Machine learning, Data visualization project</h1>
 <img align="center" alt="coding" width=550" src="https://github.com/emumia/Heart-Disease-Checker/blob/main/Check%20your%20hearth5.gif">
                                                                                                                                       <p>Are you wondering about the condition of your heart? This app will help you to diagnose it.
 Did you know that machine learning models can help you predict heart disease pretty accurately? In this project(on going), you can estimate your chance of heart disease (yes/no) in seconds!
